@@ -1,0 +1,7 @@
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\DeployDemo.exe
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\DeployDemo.dll
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\DeployDemo.deps.json
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\DeployDemo.runtimeconfig.json
+C:\Users\udays\OneDrive\Desktop\Capgemini\Day66Projects\DeployDemo\DeployDemo\obj\Release\net8.0\PubTmp\Out\DeployDemo.pdb
