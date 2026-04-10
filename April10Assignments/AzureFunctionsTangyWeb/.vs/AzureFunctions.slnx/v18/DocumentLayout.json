@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\onqueuetriggerupdatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\azurefunctionstangyweb\\azurefunctionstangyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\azurefunctionstangyweb\\azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\azurefunctionstangyweb\\azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\azurefunctionstangyweb\\azurefunctionstangyweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE9E10-1A42-42F9-8E56-E16A92AA05B8}|..\\TangyAzureFunc\\TangyAzureFunc.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day67projects\\tangyazurefunc\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnQueueTriggerUpdateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "RelativeToolTip": "..\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:22:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Program.cs",
+              "RelativeToolTip": "..\\TangyAzureFunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:15:45.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\local.settings.json",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\local.settings.json",
+              "RelativeToolTip": "..\\TangyAzureFunc\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T05:30:39.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnSalesUploadWriteToQueue.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeToolTip": "..\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:28:35.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:12:49.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:50:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Program.cs",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:49:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Models\\SalesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:18:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T04:19:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "RelativeDocumentMoniker": "..\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day67Projects\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "RelativeToolTip": "..\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:10:31.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
