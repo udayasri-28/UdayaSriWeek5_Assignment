@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtmfD20FWu4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day68Projects\\AzureSpookyLoginApp\\AzureSpookyLoginApp\\AzureSpookyLoginApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alekhya\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
